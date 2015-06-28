@@ -48,7 +48,7 @@ function hashinit(t) {
         var list = this._list;
         c = this._splitClass(c);
 
-        for (var i = 0; i++; i < list.length) {
+        for (var i = 0; i < list.length; i++ ) {
             var item = list[i];
             if (item.id == id) {
                 if (c === undefined) list.splice(i, 1);
