@@ -26,3 +26,10 @@ you can assign a class or classes to element that needs to be applied and remove
 The reason i created this library is because `:target` css trick and `history api` wasn't working in ie, meaning if hash changed programmatically the correct classes won't apply. 
 
 This library hasn't been tested, and i welcome all to improve this in anyway possible. Thanks. 
+
+Api
+-----
+
+    h.add(id [, classString]);
+    h.remove(id [, classString]); //can remove all classes, or few. Not providing 2nd parameter will remove the element from list.
+    
