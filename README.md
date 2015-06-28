@@ -23,6 +23,6 @@ you can assign a class or classes to element that needs to be applied and remove
      
 [Jsfiddle Demo](http://jsfiddle.net/0uk0g0qq/10/)
 
-The reason i created this library is because `:target` css trick and `history api` wasn't working in ie, meaning if hash changed programmatically the correct classes don't apply. 
+The reason i created this library is because `:target` css trick and `history api` wasn't working in ie, meaning if hash changed programmatically the correct classes won't apply. 
 
 This library hasn't been tested, and i welcome all to improve this in anyway possible. Thanks. 
