@@ -21,4 +21,4 @@ you can assign a class or classes to element that needs to be applied and remove
      h.add('heading', 'red bo'); // or you can tell what class(es) to add and remove
      h.add('pp', 'red bo');
      
-[Jsfiddle Demo](http://jsfiddle.net/0uk0g0qq/9/)
+[Jsfiddle Demo](http://jsfiddle.net/0uk0g0qq/10/)
